@@ -23,7 +23,7 @@
     },
     "huangcang": {
       "api": "https://hsckzy.vip/api.php/provide/vod",
-      "name": "黄色仓库"
+      "name": "yellow仓库"
     },
     "yutu": {
       "api": "https://yutuzy10.com/api.php/provide/vod",
@@ -35,87 +35,71 @@
     },
     "huangseziy": {
       "api": "https://hsckzy888.com/api.php/provide/vod",
-      "name": "黄色资源啊啊"
+      "name": "yellow叭叭叭"
     },
     "xiaojiziy": {
       "api": "https://api.xiaojizy.live/provide/vod",
       "name": "小鸡资源"
     },
-    "AV5": {
-      "api": "https://91md.me/api.php/provide/vod/",
-      "name": "AV-91麻豆"
-    },
-    "AV6": {
-      "api": "http://lbapiby.com/api.php/provide/vod/at/json",
-      "name": "AV-AIvin"
-    },
-    "AV8": {
-      "api": "http://fhapi9.com/api.php/provide/vod",
-      "name": "AV-番号资源"
-    },
-    "AV11": {
-      "api": "https://Naixxzy.com/api.php/provide/vod",
-      "name": "AV-奶香香"
-    },
-    "AV17": {
-      "api": "https://apiyutu.com/api.php/provide/vod",
-      "name": "AV-玉兔资源"
-    },
-    "AV19": {
-      "api": "https://www.pgxdy.com/api/json.php",
-      "name": "AV-AV资源"
-    },
-    "AV20": {
-      "api": "https://www.gdlsp.com/api/json.php",
-      "name": "AV-香奶儿资源"
-    },
-    "AV21": {
-      "api": "https://www.kxgav.com/api/json.php",
-      "name": "AV-白嫖资源"
-    },
-    "AV23": {
-      "api": "https://www.xrbsp.com/api/json.php",
-      "name": "AV-淫水资源"
-    },
-    "AV24": {
-      "api": "https://www.msnii.com/api/json.php",
-      "name": "AV-美少女资源"
-    },
-    "AV25": {
-      "api": "https://lbapi9.com/api.php/provide/vod/at/json",
-      "name": "AV-乐播资源"
-    },
-    "api_52": {
+    "91md": {
       "api": "https://91md.me/api.php/provide/vod",
-      "name": "AV-91麻豆"
+      "name": "91码逗"
     },
-    "api_53": {
+    "fhapi9": {
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "番号资源"
+    },
+    "Naixxzy": {
+      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "name": "奶香香"
+    },
+    "apiyutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔资源"
+    },
+    "pgxdy": {
+      "api": "https://www.pgxdy.com/api/json.php",
+      "name": "爱危资源"
+    },
+    "gdlsp": {
+      "api": "https://www.gdlsp.com/api/json.php",
+      "name": "香奶儿资源"
+    },
+    "kxgav": {
+      "api": "https://www.kxgav.com/api/json.php",
+      "name": "白嫖资源"
+    },
+    "xrbsp": {
+      "api": "https://www.xrbsp.com/api/json.php",
+      "name": "淫水资源"
+    },
+    "msnii": {
+      "api": "https://www.msnii.com/api/json.php",
+      "name": "美少女资源"
+    },
+    "lbapiby": {
       "api": "http://lbapiby.com/api.php/provide/vod",
-      "name": "AV-AIvin"
+      "name": "AIvin"
     },
-    "api_56": {
+    "lbapi9": {
       "api": "https://lbapi9.com/api.php/provide/vod",
-      "name": "AV-乐播资源"
+      "name": "乐播资源"
     },
-    "api_64": {
+    "jingpinx": {
       "api": "https://www.jingpinx.com/api.php/provide/vod",
-      "name": "AV-精品资源"
+      "name": "精品资源"
     },
-    "api_69": {
+    "apilj": {
       "api": "https://apilj.com/api.php/provide/vod",
-      "name": "AV-辣椒资源"
+      "name": "辣椒资源"
     },
-    "baiwan": {
-      "api": "https://api.bwzyz.com/api.php/provide/vod/",
+    "bwzyz": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
       "name": "百万"
     },
-    "forest": {
-      "api": "https://beiyong.slapibf.com/api.php/provide/vod/",
+    "slapibf": {
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
       "name": "森林"
-    },
-    "boutique": {
-      "api": "https://www.jingpinx.com/api.php/provide/vod/",
-      "name": "精品"
     }
   }
 }
