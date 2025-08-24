@@ -100,6 +100,9 @@
     "slapibf": {
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
       "name": "森林"
-    }
+    },
+    "xxibaozyw": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "细胞采集"
   }
 }
