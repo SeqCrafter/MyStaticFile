@@ -1,5 +1,5 @@
 (function () {
-  const API_URL = "https://umami-q2ai0nctcl.edgeone.app/umami";
+  const API_URL = "https://landing-page-demo-77qf8sw1.edgeone.app/umami";
 
   const pvEl = document.getElementById("umami_value_site_pv");
   const vEl = document.getElementById("umami_value_site_v");
