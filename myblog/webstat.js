@@ -13,7 +13,7 @@
   fetch(API_URL, {
     headers: {
       "x-umami-share-token":
-        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3ZWJzaXRlSWQiOiI1ZDllYzM5YS0yMDQ5LTQwNWUtOGQ4Yy1kM2U4MTEwMDY4MzYiLCJpYXQiOjE3NjcxNzM3NTh9.PPVUKSvYWDehAwf4KgbRebBvvFZ-CyBusiDRtQtfXcc",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaGFyZUlkIjoiNDcxOWVhZmYtNDYzNC00MTkyLWIwMmQtODlhNzlkMzM1N2RhIiwic2hhcmVUeXBlIjoxLCJwYXJhbWV0ZXJzIjp7Im92ZXJ2aWV3Ijp0cnVlfSwid2Vic2l0ZUlkIjoiNWQ5ZWMzOWEtMjA0OS00MDVlLThkOGMtZDNlODExMDA2ODM2IiwiaWF0IjoxNzc3MjUyOTEyfQ.2XC0JOt6-v04LJGWjG87HBtZv71MwbLx7t17B-EbOoc",
     },
   })
     .then((res) => res.json())
