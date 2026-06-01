@@ -12,8 +12,10 @@
 
   fetch(API_URL, {
     headers: {
-      "Authorization":
-        "Bearer w1PP3kin8nzcheb06AgS+MrijJf9Dqs4x9Wnn88nJ8vdVfrx6C1Gy4TVDqSk+gARY+EALiUFqdAyJ08pHYYsJ6siViZrIgRgJN02hDn/GpKGkpXE3BkXEK38zUxCqTioQb4nGZX2UzhCZNFFuujEndOpFkJHFlwqQbLHS/MUY7FZnu9Zvj8iI1R9dEJcVecxdQTzknZpUwv8rv3bRSA9jTzwddrrSb9hCZ/oWvnfKdl9xMpmODCteZoY9nNy5WtWM1/rX6xYaUNjuFHRqTdUw7ac0eKDc9XrLu3MCuprogGC1S5lZB8HsV7063T+Cq+Rct/jvahoGZytbZKNqFyWvwZlnS8PZRw/ruo0Lw==",
+      "x-umami-share-token":
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaGFyZUlkIjoiNDcxOWVhZmYtNDYzNC00MTkyLWIwMmQtODlhNzlkMzM1N2RhIiwic2hhcmVUeXBlIjoxLCJwYXJhbWV0ZXJzIjp7Im92ZXJ2aWV3Ijp0cnVlfSwid2Vic2l0ZUlkIjoiNWQ5ZWMzOWEtMjA0OS00MDVlLThkOGMtZDNlODExMDA2ODM2IiwiaWF0IjoxNzgwMjc5MzQxfQ.-4A8cl__1JeTjmjWvvcm2dkJzEbllpvx2QIfY8prSjM",
+      "x-umami-share-context":
+        "1"
     },
   })
     .then((res) => res.json())
